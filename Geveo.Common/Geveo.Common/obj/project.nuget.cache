@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "67e9Q8sVOBWBuF+mig5MwSCTiSGH0LVZcXW2ZI6frAk7cKdLVLZ5gt8CO+LQ/b7KDJgiMksBdMRUcOJxHQ2NHQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\MadushiSarathchandra\\Documents\\Mentoring\\Geveo\\Geveo.Common\\Geveo.Common\\Geveo.Common.Execution.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\MadushiSarathchandra\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "C:\\Users\\MadushiSarathchandra\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\MadushiSarathchandra\\.nuget\\packages\\swashbuckle.aspnetcore\\6.2.3\\swashbuckle.aspnetcore.6.2.3.nupkg.sha512",
+    "C:\\Users\\MadushiSarathchandra\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.2.3\\swashbuckle.aspnetcore.swagger.6.2.3.nupkg.sha512",
+    "C:\\Users\\MadushiSarathchandra\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.2.3\\swashbuckle.aspnetcore.swaggergen.6.2.3.nupkg.sha512",
+    "C:\\Users\\MadushiSarathchandra\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.2.3\\swashbuckle.aspnetcore.swaggerui.6.2.3.nupkg.sha512"
+  ],
+  "logs": []
+}

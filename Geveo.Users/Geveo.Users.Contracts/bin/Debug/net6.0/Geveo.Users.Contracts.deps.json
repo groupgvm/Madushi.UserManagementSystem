@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Geveo.Users.Contracts/1.0.0": {
+        "runtime": {
+          "Geveo.Users.Contracts.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Geveo.Users.Contracts/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

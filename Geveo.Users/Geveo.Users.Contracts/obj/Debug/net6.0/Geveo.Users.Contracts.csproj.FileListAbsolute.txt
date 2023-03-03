@@ -1,0 +1,12 @@
+C:\Users\MadushiSarathchandra\Documents\Mentoring\Geveo\Geveo.Users\Geveo.Users.Contracts\bin\Debug\net6.0\Geveo.Users.Contracts.deps.json
+C:\Users\MadushiSarathchandra\Documents\Mentoring\Geveo\Geveo.Users\Geveo.Users.Contracts\bin\Debug\net6.0\Geveo.Users.Contracts.dll
+C:\Users\MadushiSarathchandra\Documents\Mentoring\Geveo\Geveo.Users\Geveo.Users.Contracts\bin\Debug\net6.0\Geveo.Users.Contracts.pdb
+C:\Users\MadushiSarathchandra\Documents\Mentoring\Geveo\Geveo.Users\Geveo.Users.Contracts\obj\Debug\net6.0\Geveo.Users.Contracts.csproj.AssemblyReference.cache
+C:\Users\MadushiSarathchandra\Documents\Mentoring\Geveo\Geveo.Users\Geveo.Users.Contracts\obj\Debug\net6.0\Geveo.Users.Contracts.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MadushiSarathchandra\Documents\Mentoring\Geveo\Geveo.Users\Geveo.Users.Contracts\obj\Debug\net6.0\Geveo.Users.Contracts.AssemblyInfoInputs.cache
+C:\Users\MadushiSarathchandra\Documents\Mentoring\Geveo\Geveo.Users\Geveo.Users.Contracts\obj\Debug\net6.0\Geveo.Users.Contracts.AssemblyInfo.cs
+C:\Users\MadushiSarathchandra\Documents\Mentoring\Geveo\Geveo.Users\Geveo.Users.Contracts\obj\Debug\net6.0\Geveo.Users.Contracts.csproj.CoreCompileInputs.cache
+C:\Users\MadushiSarathchandra\Documents\Mentoring\Geveo\Geveo.Users\Geveo.Users.Contracts\obj\Debug\net6.0\Geveo.Users.Contracts.dll
+C:\Users\MadushiSarathchandra\Documents\Mentoring\Geveo\Geveo.Users\Geveo.Users.Contracts\obj\Debug\net6.0\refint\Geveo.Users.Contracts.dll
+C:\Users\MadushiSarathchandra\Documents\Mentoring\Geveo\Geveo.Users\Geveo.Users.Contracts\obj\Debug\net6.0\Geveo.Users.Contracts.pdb
+C:\Users\MadushiSarathchandra\Documents\Mentoring\Geveo\Geveo.Users\Geveo.Users.Contracts\obj\Debug\net6.0\ref\Geveo.Users.Contracts.dll

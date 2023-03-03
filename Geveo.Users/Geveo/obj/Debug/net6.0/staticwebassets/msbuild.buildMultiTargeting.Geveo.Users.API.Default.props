@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\Geveo.Users.API.Default.props" />
+</Project>

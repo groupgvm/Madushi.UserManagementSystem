@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Geveo.Users.Flow/1.0.0": {
+        "dependencies": {
+          "Geveo.Users.Contracts": "1.0.0"
+        },
+        "runtime": {
+          "Geveo.Users.Flow.dll": {}
+        }
+      },
+      "Geveo.Users.Contracts/1.0.0": {
+        "runtime": {
+          "Geveo.Users.Contracts.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Geveo.Users.Flow/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Geveo.Users.Contracts/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
