@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\MadushiSarathchandra\\Documents\\Mentoring\\Geveo\\Geveo.Users\\Geveo.Users.Contracts\\Geveo.Users.Contracts.csproj": {}
+    "C:\\Users\\MadushiSarathchandra\\Documents\\Mentoring\\Madushi.UserManagementSystem\\Geveo.Users\\Geveo.Users.Contracts\\Geveo.Users.Contracts.csproj": {}
   },
   "projects": {
-    "C:\\Users\\MadushiSarathchandra\\Documents\\Mentoring\\Geveo\\Geveo.Users\\Geveo.Users.Contracts\\Geveo.Users.Contracts.csproj": {
+    "C:\\Users\\MadushiSarathchandra\\Documents\\Mentoring\\Madushi.UserManagementSystem\\Geveo.Users\\Geveo.Users.Contracts\\Geveo.Users.Contracts.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\MadushiSarathchandra\\Documents\\Mentoring\\Geveo\\Geveo.Users\\Geveo.Users.Contracts\\Geveo.Users.Contracts.csproj",
+        "projectUniqueName": "C:\\Users\\MadushiSarathchandra\\Documents\\Mentoring\\Madushi.UserManagementSystem\\Geveo.Users\\Geveo.Users.Contracts\\Geveo.Users.Contracts.csproj",
         "projectName": "Geveo.Users.Contracts",
-        "projectPath": "C:\\Users\\MadushiSarathchandra\\Documents\\Mentoring\\Geveo\\Geveo.Users\\Geveo.Users.Contracts\\Geveo.Users.Contracts.csproj",
+        "projectPath": "C:\\Users\\MadushiSarathchandra\\Documents\\Mentoring\\Madushi.UserManagementSystem\\Geveo.Users\\Geveo.Users.Contracts\\Geveo.Users.Contracts.csproj",
         "packagesPath": "C:\\Users\\MadushiSarathchandra\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\MadushiSarathchandra\\Documents\\Mentoring\\Geveo\\Geveo.Users\\Geveo.Users.Contracts\\obj\\",
+        "outputPath": "C:\\Users\\MadushiSarathchandra\\Documents\\Mentoring\\Madushi.UserManagementSystem\\Geveo.Users\\Geveo.Users.Contracts\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\MadushiSarathchandra\\AppData\\Roaming\\NuGet\\NuGet.Config",
