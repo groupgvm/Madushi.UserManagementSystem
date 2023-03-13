@@ -11,7 +11,9 @@
   </ItemGroup>
 
   <ItemGroup>
+    <ProjectReference Include="..\Geveo.Users.Common\Geveo.Users.Common.csproj" />
     <ProjectReference Include="..\Geveo.Users.Flow\Geveo.Users.Flow.csproj" />
+    <ProjectReference Include="..\Geveo.Users.Middleware\Geveo.Users.Middleware.csproj" />
   </ItemGroup>
 
 </Project>
