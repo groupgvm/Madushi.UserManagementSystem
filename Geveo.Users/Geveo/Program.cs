@@ -1,3 +1,6 @@
+using Geveo.Users.Common;
+using Geveo.Users.Middleware;
+
 var builder = WebApplication.CreateBuilder(args);
 
 // Add services to the container.
@@ -6,6 +9,7 @@ builder.Services.AddControllers();
 // Learn more about configuring Swagger/OpenAPI at https://aka.ms/aspnetcore/swashbuckle
 builder.Services.AddEndpointsApiExplorer();
 builder.Services.AddSwaggerGen();
+builder.Services.AddTransient<ILoggerService, LoggerService>();
 
 var app = builder.Build();
 
@@ -16,31 +20,16 @@ if (app.Environment.IsDevelopment())
     app.UseSwaggerUI();
 }
 
+//Add various middleware to the app pipeline
+
+app.UseLoggingMiddleware();
+
 app.UseHttpsRedirection();
 
 app.UseAuthorization();
 
 app.MapControllers();
 
+// Run the app
+
 app.Run();
-
-
-/*using Geveo.Users.API.Default;
-using Microsoft.AspNetCore;
-
-namespace Geveo.Users.Api.Default
-{
-    public class Program
-    {
-        public static void Main(string[] args)
-        {
-            // BuildWebHost(args).Run();
-        }
-
-        *//*public static IWebHost BuildWebHost(string[] args) =>
-            WebHost.CreateDefaultBuilder(args)
-                .UseStartup<Startup>()
-                .Build();
-    *//*
-    }
-}*/
