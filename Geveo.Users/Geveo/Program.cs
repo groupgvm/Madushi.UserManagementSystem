@@ -10,6 +10,7 @@ builder.Services.AddControllers();
 builder.Services.AddEndpointsApiExplorer();
 builder.Services.AddSwaggerGen();
 builder.Services.AddTransient<ILoggerService, LoggerService>();
+builder.Services.AddTransient<ExceptionHandlerMiddleware>();
 
 var app = builder.Build();
 
@@ -21,6 +22,8 @@ if (app.Environment.IsDevelopment())
 }
 
 //Add various middleware to the app pipeline
+
+app.UseMiddleware<ExceptionHandlerMiddleware>();
 
 app.UseLoggingMiddleware();
 
