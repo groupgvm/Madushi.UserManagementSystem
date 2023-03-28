@@ -22,6 +22,8 @@ if (app.Environment.IsDevelopment())
 
 //Add various middleware to the app pipeline
 
+app.UseMiddleware<ExceptionHandlerMiddleware>();
+
 app.UseLoggingMiddleware();
 
 app.UseHttpsRedirection();
