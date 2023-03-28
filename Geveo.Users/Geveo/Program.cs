@@ -10,7 +10,6 @@ builder.Services.AddControllers();
 builder.Services.AddEndpointsApiExplorer();
 builder.Services.AddSwaggerGen();
 builder.Services.AddTransient<ILoggerService, LoggerService>();
-builder.Services.AddTransient<ExceptionHandlerMiddleware>();
 
 var app = builder.Build();
 
